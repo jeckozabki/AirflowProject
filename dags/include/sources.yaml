@@ -1,0 +1,13 @@
+# List of dictionaries
+- environment: Dev
+  division: HH
+  project: Project 1
+  connection: CM_HH_Project1_Dev
+- environment: Sit
+  division: MRL
+  project: Project2
+  connection: CM_MRL_Project2_Sit
+- environment: Sit
+  division: MRL
+  project: Project2
+  connection: CM_MRL_Project3_Sit
