@@ -1,0 +1,6 @@
+# Nothing systematic
+venv/
+.env
+logs/
+dags/__pycache__/
+
